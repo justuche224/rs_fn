@@ -1,0 +1,1 @@
+import{j as r}from"./index-DavNzqqX.js";const t=({error:e})=>{const s=e.message??"An error occurred";return r.jsx("div",{className:"flex h-full items-center justify-center",children:r.jsxs("div",{className:"rounded-lg bg-red-50 p-6 text-red-700",children:[r.jsx("h2",{className:"text-lg font-bold",children:"Error"}),r.jsx("p",{children:s})]})})};export{t as errorComponent};
